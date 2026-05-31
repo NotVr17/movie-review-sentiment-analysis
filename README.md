@@ -22,7 +22,7 @@ The model was trained and evaluated on a strict binary subset of the Kaggle Rott
 * **F1-Score (Negative):** 0.80
 
 ### Confusion Matrix
-*(Placeholder: Drag and drop your confusion_matrix.png file right here in the GitHub editor to display it!)*
+<img width="978" height="769" alt="image" src="https://github.com/user-attachments/assets/a719c753-81f9-436b-ba3b-3c13e0fc02b1" />
 
 ## 🚀 How to Run Locally
 
